@@ -1,0 +1,12 @@
+export { default as Container } from "./Container";
+export { default as Navbar } from "./Navbar";
+export { default as Footer } from "./Footer";
+export { default as Home } from "./Home";
+export { default as Hero } from "./Hero";
+export { default as NotFound } from "./NotFound";
+export { default as ContactSection } from "./ContactSection";
+export { default as BrandsAndReviews } from "./BrandsAndReviews";
+export { default as ProcessAndWhyChoose } from "./ProcessAndWhyChoose";
+export { default as Services } from "./Services";
+export { default as Stats } from "./Stats";
+export { default as Seo } from "./Seo";
